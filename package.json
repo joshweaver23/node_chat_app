@@ -1,0 +1,27 @@
+{
+  "name": "node_chat_app",
+  "version": "1.0.0",
+  "description": "Realtime chat app built using node, express, and socket.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshweaver23/node_chat_app.git"
+  },
+  "keywords": [ "node", "express.js", "socket.io", "chat", "app" ],
+  "author": "Josh Weaver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshweaver23/node_chat_app/issues"
+  },
+  "homepage": "https://github.com/joshweaver23/node_chat_app#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
